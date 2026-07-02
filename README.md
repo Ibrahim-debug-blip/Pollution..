@@ -13,6 +13,5 @@ This website contains alot of information regarding thebiggest problem of the wo
  index.html          # Main opening page
  pol.html            # Introduction of topics
  lahore.html         # Case study page (Lahore - Most Polluted City of Pakistan)
- 
  sol.html            # Solutions & Important Measures page
  README.md           # Repository documentation
